@@ -1,0 +1,10 @@
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\bin\Debug\TaxiDispatcher.Client.exe.config
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\bin\Debug\TaxiDispatcher.Client.exe
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\bin\Debug\TaxiDispatcher.Client.pdb
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\bin\Debug\TaxiDispatcher.App.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\bin\Debug\TaxiDispatcher.App.pdb
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\obj\Debug\TaxiDispatcher.Client.csprojAssemblyReference.cache
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\obj\Debug\TaxiDispatcher.Client.csproj.CoreCompileInputs.cache
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\obj\Debug\TaxiDispatcher.Client.csproj.CopyComplete
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\obj\Debug\TaxiDispatcher.Client.exe
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Client\obj\Debug\TaxiDispatcher.Client.pdb

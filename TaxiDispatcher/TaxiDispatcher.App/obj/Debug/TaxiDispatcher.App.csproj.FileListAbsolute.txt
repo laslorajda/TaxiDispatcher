@@ -1,0 +1,5 @@
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.App\bin\Debug\TaxiDispatcher.App.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.App\bin\Debug\TaxiDispatcher.App.pdb
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.App\obj\Debug\TaxiDispatcher.App.csproj.CoreCompileInputs.cache
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.App\obj\Debug\TaxiDispatcher.App.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.App\obj\Debug\TaxiDispatcher.App.pdb

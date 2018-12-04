@@ -1,0 +1,15 @@
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\TaxiDispatcher.Tests.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\TaxiDispatcher.Tests.pdb
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\nunit.framework.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\TaxiDispatcher.App.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\TaxiDispatcher.App.pdb
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\bin\Debug\nunit.framework.xml
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\obj\Debug\TaxiDispatcher.Tests.csprojAssemblyReference.cache
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\obj\Debug\TaxiDispatcher.Tests.csproj.CoreCompileInputs.cache
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\obj\Debug\TaxiDispatcher.Tests.csproj.CopyComplete
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\obj\Debug\TaxiDispatcher.Tests.dll
+C:\Users\lra\Documents\GitHub\TaxiDispatcher\TaxiDispatcher\TaxiDispatcher.Tests\obj\Debug\TaxiDispatcher.Tests.pdb

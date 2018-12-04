@@ -126,6 +126,11 @@ namespace TaxiDispatcher.App
             return InMemoryRideDataBase.GetRides().Where(x => x.TaxiDriverId == driverId).ToList();
         }
 
+        public Taxi GetTaxi(int id)
+        {
+            return Taxis.FirstOrDefault(x => x.TaxiDriverId == id);
+        }
+
         public class Taxi
         {
             public int TaxiDriverId { get; set; }
